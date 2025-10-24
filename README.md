@@ -26,16 +26,6 @@ https://github.com/user-attachments/assets/0b9ecd5b-3a41-4aec-957f-675a7dab2b53
 
 ### What's inside
 - `agents/` – individual agents and examples
-  - `gemini/` – minimal Gemini content generation example
-  - `gemini_chatbot/` – simple chat-style interaction (example)
-  - `calculator/` – utility agent example
-  - `rule_based_agent/` – simple reflex agent demonstration
-  - `goal_based_agent/` – goal-oriented agent example
-  - `tool_agent/` – function-calling agent with external tools
-  - `content_team/` – multi-agent collaboration system
-  - `research_agent/` – specialized research and analysis agent
-  - `code_agent/` – code generation and review agent
-  - `search_agent/` – web search and information gathering agent
 
 ### Quick start
 ```bash
