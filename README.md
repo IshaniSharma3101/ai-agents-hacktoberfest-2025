@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/0b9ecd5b-3a41-4aec-957f-675a7dab2b53
 
 **New to AI Agents?** Check out our comprehensive guides:
 
-- 📖 **[AI Agents: A Comprehensive Guide](./AI_AGENTS_DOCUMENTATION.md)** - Deep dive into what AI agents are, how they differ from traditional functions, use cases, and best practices
+- 📖 **[AI Agents: A Comprehensive Guide](./docs/AI_AGENTS_DOCUMENTATION.md)** - Deep dive into what AI agents are, how they differ from traditional functions, use cases, and best practices
 - 🚀 **[Quick Start Guide](./docs/AI_AGENTS_QUICK_START.md)** - Get up and running with practical examples
 
 ### What's inside
